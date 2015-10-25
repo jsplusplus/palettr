@@ -1,2 +1,2 @@
-# palettr
-simple color palette creation tool
+# palettr.github.io
+Palettr page.
